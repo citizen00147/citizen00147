@@ -1,12 +1,15 @@
-### <p align="center"><b>👋 hey there</b></p>
-
+### <p align="center"><b>👋 Hey there </b></p><br />
+i like to keep things simple.
+<br />
 i’m just a concerned citizen trying to build some useful things before ai takes over my passion.
 
+- :book: currently learning web development
+- :computer: i'm interested in technology, open source, and all things related to the internet
+- :mailbox_closed: feel free to reach out to me at <developer@cmdme.dev>
 
- ### <p align="center"> <b>languages</b>
 
-  <p>
-  </p>
+### <p align="center"> <b>Languages</b>
+ <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,11 +18,6 @@ i’m just a concerned citizen trying to build some useful things before ai take
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <br />
 </p>
-
-
-- :book: i’m currently learning web development
-- :computer: i'm interested in technology, open source, and all things related to the internet
-- :mailbox_closed: feel free to reach out to me at <developer@cmdme.dev>
 
 _ _ _
 
@@ -31,11 +29,12 @@ _ _ _
 
 ✍️ latest blog posts:
 <p> 
+  <a href="https://blog.cmdme.dev/making-a-cat-name-generator-part-2">making a cat name generator part II</a><br/>
+  <a href="https://blog.cmdme.dev/making-a-cat-name-generator">making a cat name generator</a><br />
   <a href="https://blog.cmdme.dev/surfing-a-tedious-web">surfing a tedious web</a><br/>
-  <a href="https://blog.cmdme.dev/making-a-cat-name-generator">making a cat name generator</a><br/>
-  <a href="https://blog.cmdme.dev/making-a-cat-name-generator-part-2">making a cat name generator part II</a>
 </p>
 <p align="center">
   <a href="https://twitter.com/citizen00147"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"    height=25></a> 
   <a href="https://hashnode.com/@citizen00147"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
 </p>
+
