@@ -19,15 +19,12 @@ i’m just a concerned citizen trying to build some useful things before ai take
 
 - :book: i’m currently learning web development
 - :computer: i'm interested in technology, open source, and all things related to the internet
--  :mailbox_closed: feel free to reach out to me at <developer@cmdme.dev>
+- :mailbox_closed: feel free to reach out to me at <developer@cmdme.dev>
 
 _ _ _
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=citizen00147&show_icons=true&icon_color=7952b3&bg_color=1a1e29&text_color=e1e8eb&title_color=7952b3&border_radius=10" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citizen00147&layout=compact&bg_color=1a1e29&text_color=e1e8eb&title_color=7952b3&border_radius=10" />
 </a>
 
 _ _ _
