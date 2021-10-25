@@ -1,11 +1,10 @@
-### <p align="center"><b>about me</b></p>
+### <p align="center"><b>👋 hey there</b></p>
 
-👋 hey there, i’m just a concerned citizen trying to build some useful things before ai takes over my passion.
-  <br />
+i’m just a concerned citizen trying to build some useful things before ai takes over my passion.
 
- <p align="center"> <b>languages</b>
 
-  <br />
+ ### <p align="center"> <b>languages</b>
+
   <p>
   </p>
 
