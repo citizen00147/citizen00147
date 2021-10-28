@@ -3,9 +3,9 @@ I like to keep things simple.
 <br />
 I’m just a concerned citizen trying to build some useful things before ai takes over my passion.
 
-- :book: currently learning web development
-- :computer: i'm interested in technology, open source, and all things related to the internet
-- :mailbox_closed: feel free to reach out to me at <developer@cmdme.dev>
+- :book: Currently learning web development
+- :computer: I'm interested in technology, open source, and all things related to the internet
+- :mailbox_closed: Feel free to reach out to me at <developer@cmdme.dev>
 
 
 ### <p align="center"> <b>Languages</b>
@@ -29,9 +29,9 @@ _ _ _
 
 ✍️ Latest blog posts:
 <p> 
-  <a href="https://blog.cmdme.dev/making-a-cat-name-generator-part-2">making a cat name generator part II</a><br/>
-  <a href="https://blog.cmdme.dev/making-a-cat-name-generator">making a cat name generator</a><br />
-  <a href="https://blog.cmdme.dev/surfing-a-tedious-web">surfing a tedious web</a><br/>
+  <a href="https://blog.cmdme.dev/making-a-cat-name-generator-part-2">Making a Cat Name Generator Part II</a><br/>
+  <a href="https://blog.cmdme.dev/making-a-cat-name-generator">Making a Cat Name Generator</a><br />
+  <a href="https://blog.cmdme.dev/surfing-a-tedious-web">Surfing a Tedious Web</a><br/>
 </p>
 <p align="center">
   <a href="https://twitter.com/citizen00147"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"    height=25></a> 
