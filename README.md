@@ -1,7 +1,7 @@
 ### <p align="center"><b>👋 Hey there </b></p><br />
-i like to keep things simple.
+I like to keep things simple.
 <br />
-i’m just a concerned citizen trying to build some useful things before ai takes over my passion.
+I’m just a concerned citizen trying to build some useful things before ai takes over my passion.
 
 - :book: currently learning web development
 - :computer: i'm interested in technology, open source, and all things related to the internet
@@ -27,7 +27,7 @@ _ _ _
 
 _ _ _
 
-✍️ latest blog posts:
+✍️ Latest blog posts:
 <p> 
   <a href="https://blog.cmdme.dev/making-a-cat-name-generator-part-2">making a cat name generator part II</a><br/>
   <a href="https://blog.cmdme.dev/making-a-cat-name-generator">making a cat name generator</a><br />
