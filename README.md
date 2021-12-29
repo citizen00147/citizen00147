@@ -29,9 +29,10 @@ _ _ _
 
 ✍️ Latest blog posts:
 <p> 
+  <a href="https://blog.cmdme.dev/building-my-first-web-app-anonymous-messaging">Building My First Web App: Anonymous Messaging</a><br/>
+  <a href="https://blog.cmdme.dev/keep-the-internet-weird">Keep the Internet Weird</a><br/>
   <a href="https://blog.cmdme.dev/making-a-cat-name-generator-part-2">Making a Cat Name Generator Part II</a><br/>
   <a href="https://blog.cmdme.dev/making-a-cat-name-generator">Making a Cat Name Generator</a><br />
-  <a href="https://blog.cmdme.dev/surfing-a-tedious-web">Surfing a Tedious Web</a><br/>
 </p>
 <p align="center">
   <a href="https://twitter.com/citizen00147"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"    height=25></a> 
