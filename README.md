@@ -3,7 +3,6 @@ I like to keep things simple.
 <br />
 I’m just a concerned citizen trying to build some useful things before ai takes over my passion.
 
-- :book: Currently learning web development
 - :computer: I'm interested in technology, open source, and all things related to the internet
 - :mailbox_closed: Feel free to reach out to me at <developer@cmdme.dev>
 
