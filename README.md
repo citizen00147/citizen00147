@@ -1,10 +1,11 @@
-### <p align="center"><b>👋 Hey there </b></p><br />
-I like to keep things simple.
-<br />
-I’m just a concerned citizen trying to build some useful things before ai takes over my passion.
 
-- :computer: I'm interested in technology, open source, and all things related to the internet
-- :mailbox_closed: Feel free to reach out to me at <developer@cmdme.dev>
+<img src="https://github.com/citizen00147/citizen00147/blob/main/support-banner.png" width="100%"/>
+
+
+### I enjoy tinkering with things. I stay up to date on the latest tech, and if I can get my hands on it, I will. I love to build simple, effective, and accessible things for people.  
+
+
+:mailbox_closed: Feel free to reach out to me at <developer@cmdme.dev>
 
 
 ### <p align="center"> <b>Languages</b>
@@ -16,6 +17,15 @@ I’m just a concerned citizen trying to build some useful things before ai take
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <br />
+</p>
+
+### <p align="center"> <b>Also work with</b>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 _ _ _
@@ -36,5 +46,8 @@ _ _ _
 <p align="center">
   <a href="https://twitter.com/citizen00147"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"    height=25></a> 
   <a href="https://hashnode.com/@citizen00147"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
+  <a href="https://ko-fi.com/cmdme"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25/></a>
 </p>
-
+<p align="center">
+<img src="https://github.com/citizen00147/citizen00147/blob/main/window-banner.svg" width="100%"/>
+</p>
