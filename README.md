@@ -43,7 +43,7 @@ _ _ _
   <a href="https://blog.cmdme.dev/building-my-first-web-app-learning-as-i-go">Building My First Web App</a><br/>
   <a href="https://blog.cmdme.dev/keep-the-internet-weird">Keep the Internet Weird</a><br />
 </p>
-<p>I also like to write on <a href="https://community.codenewbie.org/citizen00147>CodeNewbie</a></p>
+
 <p align="center">
   <a href="https://twitter.com/citizen00147"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://hashnode.com/@citizen00147"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
