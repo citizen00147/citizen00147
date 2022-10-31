@@ -16,12 +16,6 @@
 
 _ _ _
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citizen00147&show_icons=true&icon_color=ffc107&bg_color=1a1e29&text_color=e1e8eb&title_color=7952b3&border_radius=10" />
-</a>
-
-_ _ _
-
 ✍️ Latest blog posts:
 <p> 
   <a href="https://blog.cmdme.dev/attending-your-first-tech-conference">Tips On Attending Your First Tech Conference</a><br/>
