@@ -7,17 +7,17 @@
 
 :mailbox_closed: Feel free to reach out to me at <developer@cmdme.dev>
 
-| Languages  | Tech |                    
-| ------------- | ------------- |
-| HTML | NodeJS  |
-| CSS  | Express  |
-| JavaScript  | React  |
-| Python  | MongoDB  |
-
+| Languages    | Tech           | New Interests |    
+| :---         | :---           | :---          |
+| HTML         | NodeJS         | Sveltekit     |
+| CSS          | Express        | Blender       |
+| JavaScript   | React          | three.js      |
+| Python       | MongoDB        | Godot         |
 _ _ _
 
 ✍️ Latest blog posts:
 <p> 
+  <a href="https://blog.cmdme.dev/level-up-as-a-developer-by-volunteering">Level Up as a Dev by Volunteering</a><br/>
   <a href="https://blog.cmdme.dev/attending-your-first-tech-conference">Tips On Attending Your First Tech Conference</a><br/>
   <a href="https://blog.cmdme.dev/making-a-project-your-own-through-problem-solving">Making a Project Your Own Through Problem Solving</a><br/>
   <a href="https://blog.cmdme.dev/building-my-first-web-app-learning-as-i-go">Building My First Web App</a><br/>
