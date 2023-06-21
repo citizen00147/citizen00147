@@ -27,7 +27,8 @@ _ _ _
 <p align="center">
   <a href="https://indieweb.social/@citizen00147"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" height=25></a> 
   <a href="https://hashnode.com/@citizen00147"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
-  <a href="https://ko-fi.com/cmdme"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25/></a>
+  <a href="https://ko-fi.com/cmdme"><img src="https://img.shields.io/badge/Ko--fi-e37177?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a>
+
 </p>
 <p align="center">
 <img src="https://github.com/citizen00147/citizen00147/blob/main/window-banner.svg" width="100%"/>
