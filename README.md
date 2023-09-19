@@ -1,7 +1,3 @@
-
-<img src="https://github.com/citizen00147/citizen00147/blob/main/support-banner.png" width="100%"/>
-
-
 ### I enjoy tinkering with things. I stay up to date on the latest tech, and if I can get my hands on it, I will. I love to build simple, effective, and accessible things for people.  
 
 
