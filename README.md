@@ -13,16 +13,14 @@ _ _ _
 
 ✍️ Latest blog posts:
 <p> 
-  <a href="https://blog.cmdme.dev/level-up-as-a-developer-by-volunteering">Level Up as a Dev by Volunteering</a><br/>
-  <a href="https://blog.cmdme.dev/attending-your-first-tech-conference">Tips On Attending Your First Tech Conference</a><br/>
-  <a href="https://blog.cmdme.dev/making-a-project-your-own-through-problem-solving">Making a Project Your Own Through Problem Solving</a><br/>
-  <a href="https://blog.cmdme.dev/building-my-first-web-app-learning-as-i-go">Building My First Web App</a><br/>
-  <a href="https://blog.cmdme.dev/keep-the-internet-weird">Keep the Internet Weird</a><br />
+  <a href="https://community.codenewbie.org/citizen00147/level-up-as-a-developer-by-volunteering-3ig6">Level Up as a Dev by Volunteering</a><br/>
+  <a href="https://community.codenewbie.org/citizen00147/attending-your-first-tech-conference-4h53">Tips On Attending Your First Tech Conference</a><br/>
+  <a href="https://community.codenewbie.org/citizen00147/making-a-project-your-own-through-problem-solving-4bl7">Making a Project Your Own Through Problem Solving</a><br/>
+  <a href="https://community.codenewbie.org/citizen00147/building-my-first-web-app-learning-as-i-go-4epn">Building My First Web App</a><br/>
 </p>
 
 <p align="center">
   <a href="https://indieweb.social/@citizen00147"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" height=25></a> 
-  <a href="https://hashnode.com/@citizen00147"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
   <a href="https://ko-fi.com/cmdme"><img src="https://img.shields.io/badge/Ko--fi-e37177?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a>
 
 </p>
