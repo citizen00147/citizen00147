@@ -1,8 +1,5 @@
  I enjoy tinkering with things. I stay up to date on the latest tech, and if I can get my hands on it, I will. I love to build simple, effective, and accessible things for people.  
 
-
-:mailbox_closed: Feel free to reach out to me at <developer@cmdme.dev>
-
 | Languages    | Tech           | New Interests |    
 | :---         | :---           | :---          |
 | HTML         | NodeJS         | Sveltekit     |
